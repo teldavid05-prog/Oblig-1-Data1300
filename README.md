@@ -10,22 +10,27 @@ Hello Health App is a simple python program created created as a paert of Oblig 
 1. Clone repository:
   ```bash 
    git clone https://github.com/your-username/your-username-oblig1.git
+   ```
 
 2. Navigate into project directory:
   ```bash
    cd teldavid05-prog-Oblig1
+   ```
 
 3. create virtual enviroment 
    ```bash
    python3 -m venv .venv
+   ```
 
 4. Activate the virtual enviroment:
    ```bash
    source .venv/bin/activate
+   ```
 
 5. Run the application
    ```bash
-   python hello.health.py
+   python hello_health.py
+   ```
 
 Requirements:
 
