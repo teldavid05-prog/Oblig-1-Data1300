@@ -2,7 +2,7 @@
 
 
 ##Description
-Hello Health App is a simple python program created created as a paert of Oblig 1. The purpose of the project is to practice basic python structure, git usage, and Github delivery.
+Hello Health App is a simple python program created created as a paert of Oblig 1. The purpose of the project is to practice basic github structure, to learn more about github delivery and to get a taste of what joblife is like.
 
 ## Installation Instruction
 
