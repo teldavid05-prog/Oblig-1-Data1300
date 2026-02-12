@@ -8,7 +8,7 @@ Hello Health App is a simple python program created created as a paert of Oblig 
 
 
 1. Clone repository:
-  ''' bash 
+  ```bash 
    git clone https://github.com/your-username/your-username-oblig1.git
 
 2. Navigate into project directory:
